@@ -1,0 +1,20 @@
+:root {
+  --color-bg: #050505;
+  --color-surface: #0f0f0f;
+  --color-surface-muted: #1a1a1a;
+  --color-border: #2a2a2a;
+  --color-text: #ffffff;
+  --color-text-muted: #a0a0a0;
+  --color-primary: #00f2ff; /* Neon Cyan */
+  --color-primary-hover: #00b8c4;
+  --color-success: #39ff14; /* Neon Green */
+  --color-warning: #fff01f; /* Neon Yellow */
+  --color-danger: #ff0055;  /* Neon Pink */
+  
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  
+  --shadow-soft: 0 0 20px rgba(0, 242, 255, 0.1);
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
+}
